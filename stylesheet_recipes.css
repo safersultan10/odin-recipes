@@ -1,4 +1,6 @@
-*
+*{
+    background-color:aliceblue;
+}
 body {
     background-color: blue;
     font-family:'Times New Roman', Times, serif;
