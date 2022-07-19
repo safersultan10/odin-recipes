@@ -1,10 +1,13 @@
+*
 body {
     background-color: blue;
     font-family:'Times New Roman', Times, serif;
     font-size:large;
+    padding: 20px
 }
 h1 {
     color: black;
     font-family:'Times New Roman', Times, serif;
     font-size:medium;
+    padding: 10px
 }
